@@ -1,0 +1,35 @@
+<div class="container">
+    <h3 mat-dialog-title>Create Person </h3>
+    <form class="mat-dialog-content" [formGroup]="personForm">
+
+        <p>
+            <mat-form-field appearance="legacy">
+                <mat-label>FirstName</mat-label>
+                <input matInput placeholder="FirstName" formControlName="FirstName">
+                <mat-icon matSuffix></mat-icon>
+                <!-- <mat-hint>Hint</mat-hint> -->
+                <mat-error *ngIf="personForm.controls.FirstName.hasError('required')">Required</mat-error>
+                <mat-error *ngIf="personForm.controls.FirstName.hasError('minlength')">Min 2 char</mat-error>
+                <mat-error *ngIf="personForm.controls.FirstName.hasError('maxlength')">Max 64 char</mat-error>
+            </mat-form-field>
+        </p>
+
+        <p>
+            <mat-form-field appearance="legacy">
+                <mat-label>LastName</mat-label>
+                <input matInput placeholder="LastName" formControlName="LastName">
+                <mat-icon matSuffix></mat-icon>
+                <!-- <mat-hint></mat-hint>  -->
+                <mat-error *ngIf="personForm.controls.LastName.hasError('required')">Required</mat-error>
+                <mat-error *ngIf="personForm.controls.LastName.hasError('minlength')">Min 2 char</mat-error>
+                <mat-error *ngIf="personForm.controls.LastName.hasError('maxlength')">Max 64 char</mat-error>
+            </mat-form-field>
+        </p>
+
+
+        <div mat-dialog-actions>
+            <button mat-button [disabled]="!personForm.valid" (click)="onSave()">Save</button>
+            <button mat-button (click)="onCancel()" tabindex="-1">Cancel</button>
+        </div>
+    </form>
+</div>

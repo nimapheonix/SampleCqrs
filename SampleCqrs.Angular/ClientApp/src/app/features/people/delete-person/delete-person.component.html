@@ -1,0 +1,15 @@
+<div class="container">
+    <h3 mat-dialog-title>Are you sure?</h3>
+    <div mat-dialog-content>
+        First Name: {{ _person?.firstName }}
+        <p></p>
+        Last Name: {{ _person?.lastName }}
+        <p></p>
+    </div>
+
+    <div mat-dialog-actions>
+        <button mat-button (click)="confirmDelete()"
+            [disabled]="(_person == null || _person == undefined)">Delete</button>
+        <button mat-button (click)="onNoClick()" tabindex="-1">Cancel</button>
+    </div>
+</div>

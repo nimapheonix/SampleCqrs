@@ -1,0 +1,15 @@
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\obj\Debug\net6.0\SampleCqrs.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\obj\Debug\net6.0\SampleCqrs.Application.AssemblyInfoInputs.cache
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\obj\Debug\net6.0\SampleCqrs.Application.AssemblyInfo.cs
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\obj\Debug\net6.0\SampleCqrs.Application.csproj.CoreCompileInputs.cache
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\bin\Debug\net6.0\SampleCqrs.Application.deps.json
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\bin\Debug\net6.0\SampleCqrs.Application.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\bin\Debug\net6.0\ref\SampleCqrs.Application.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\bin\Debug\net6.0\SampleCqrs.Application.pdb
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\obj\Debug\net6.0\SampleCqrs.Application.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\obj\Debug\net6.0\ref\SampleCqrs.Application.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\obj\Debug\net6.0\SampleCqrs.Application.pdb
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\bin\Debug\net6.0\SampleCqrs.Domain.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\bin\Debug\net6.0\SampleCqrs.Domain.pdb
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\obj\Debug\net6.0\SampleCqrs.Application.csproj.AssemblyReference.cache
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Application\obj\Debug\net6.0\SampleCqrs.Application.csproj.CopyComplete

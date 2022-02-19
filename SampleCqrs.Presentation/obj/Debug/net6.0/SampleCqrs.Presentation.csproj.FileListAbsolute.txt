@@ -1,0 +1,38 @@
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Presentation.deps.json
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Presentation.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\ref\SampleCqrs.Presentation.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Presentation.pdb
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Application.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Domain.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SmapleCqrs.Persistance.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Application.pdb
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Domain.pdb
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SmapleCqrs.Persistance.pdb
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.csproj.AssemblyReference.cache
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.AssemblyInfoInputs.cache
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.AssemblyInfo.cs
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.csproj.CopyComplete
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\ref\SampleCqrs.Presentation.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.pdb
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Presentation.deps.json
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Presentation.dll
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\ref\SampleCqrs.Presentation.dll
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Presentation.pdb
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Application.dll
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Domain.dll
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SmapleCqrs.Persistance.dll
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Application.pdb
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SampleCqrs.Domain.pdb
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\bin\Debug\net6.0\SmapleCqrs.Persistance.pdb
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.csproj.AssemblyReference.cache
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.AssemblyInfoInputs.cache
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.AssemblyInfo.cs
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.csproj.CopyComplete
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.dll
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\ref\SampleCqrs.Presentation.dll
+C:\Users\Nima\Documents\MyGitHubRepository\SampleCqrs\SampleCqrs.Presentation\obj\Debug\net6.0\SampleCqrs.Presentation.pdb

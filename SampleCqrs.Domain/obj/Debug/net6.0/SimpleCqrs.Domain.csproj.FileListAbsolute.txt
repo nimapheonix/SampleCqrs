@@ -1,0 +1,11 @@
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\bin\Debug\net6.0\SampleCqrs.Domain.deps.json
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\bin\Debug\net6.0\SampleCqrs.Domain.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\bin\Debug\net6.0\ref\SampleCqrs.Domain.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\bin\Debug\net6.0\SampleCqrs.Domain.pdb
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\obj\Debug\net6.0\SampleCqrs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\obj\Debug\net6.0\SampleCqrs.Domain.AssemblyInfoInputs.cache
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\obj\Debug\net6.0\SampleCqrs.Domain.AssemblyInfo.cs
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\obj\Debug\net6.0\SampleCqrs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\obj\Debug\net6.0\SampleCqrs.Domain.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\obj\Debug\net6.0\ref\SampleCqrs.Domain.dll
+C:\Users\Nima\Desktop\Resume\approved for interview\Approved for test\Lebihan\SampleCqrs\SampleCqrs.Domain\obj\Debug\net6.0\SampleCqrs.Domain.pdb
